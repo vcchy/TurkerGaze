@@ -9,6 +9,9 @@ TurkerGaze: Crowdsourcing Saliency with Webcam based Eye Tracking
 
 ```
 
+>>> If you got Erorr in ./src/index.js
+https://github.com/PrincetonVision/TurkerGaze/issues/5
+
 Created by Pingmei Xu, Jianxiong Xiao at Princeton Vision Group.
 
 ### Introduction
